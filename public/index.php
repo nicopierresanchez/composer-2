@@ -5,7 +5,7 @@ require __DIR__ . "/../vendor/autoload.php";
 use Wcs\Hello;
 
 
-//echo Hello::talk();
+echo Hello::talk();
 
 use CowSay\Cow;
 
