@@ -11,5 +11,7 @@
             "email": "77881361+nicopierresanchez@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
 }
