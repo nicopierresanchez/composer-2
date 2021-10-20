@@ -1,0 +1,15 @@
+{
+    "name": "sanchez/quete_composer",
+    "autoload": {
+        "psr-4": {
+            "Wcs\\": "src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "SANCHEZ nicolas",
+            "email": "77881361+nicopierresanchez@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
